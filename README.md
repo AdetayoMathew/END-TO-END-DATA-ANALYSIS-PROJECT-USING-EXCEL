@@ -33,3 +33,7 @@ This project aims to analyze coffee sales data to gain insights into customer pr
 - **Loyalty Card**: Indicates whether the customer holds a loyalty card (Yes/No).
 
 The data will be analyzed using Excel to uncover patterns, trends, and insights that can inform business decisions and strategies related to coffee sales.
+
+### Dashboard
+![Uploading Picture1.png…]()
+
